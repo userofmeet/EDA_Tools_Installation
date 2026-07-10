@@ -60,3 +60,5 @@ cd gaw-yyyymmdd
 ./configure
 sudo make
 sudo make install
+sudo apt update
+sudo apt install vim-gtk3
