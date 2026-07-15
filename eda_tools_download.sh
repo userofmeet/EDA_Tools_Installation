@@ -2,8 +2,7 @@
 sudo apt-get update
 mkdir -p eda_tools
 cd eda_tools
-echo "installing pre-requisite"
-echo "________________________"
+
 sudo apt-get install build-essential clang bison flex \
 	libreadline-dev gawk tcl-dev libffi-dev git \
 	graphviz xdot pkg-config python3 libboost-system-dev \
